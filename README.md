@@ -1,1 +1,3 @@
 # Data-scraper-for-a-job-website
+
+This project/code scrapes data from a job site (Naukri.com) by taking as input the job category that you want to scrape data for. The code will only extract data from one page but it can be extended to extracting data from multiple pages for the same job category by using a for loop. I have not incorported this step as I am also extracting the information about each job by visiting the link associated with a particular job and scraping the about the job sections from the page. This step uses a great amount of computational time due to which I decided not to incorporate extracting from multiple page step here.
